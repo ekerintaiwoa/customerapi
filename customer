@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "address": {
+            "customer": {
+                "id": 1,
+                "first_name": "Taiwo",
+                "last_name": "Ekerin",
+                "email": "ekerinolufemo@gmail.com",
+                "phone": "10567008",
+                "birth_date": "2024-03-04"
+            },
+            "street": "Bornstrasse 2",
+            "city": "Berlin"
+        },
+        "itemDescription": "sliipers",
+        "unitPrice": "34.00",
+        "quantity": 12,
+        "TotalPrice": "125.00",
+        "customer": 1
+    },
+    {
+        "id": 4,
+        "address": {
+            "customer": {
+                "id": 1,
+                "first_name": "Taiwo",
+                "last_name": "Ekerin",
+                "email": "ekerinolufemo@gmail.com",
+                "phone": "10567008",
+                "birth_date": "2024-03-04"
+            },
+            "street": "Bornstrasse 2",
+            "city": "Berlin"
+        },
+        "itemDescription": "Clippers",
+        "unitPrice": "2.00",
+        "quantity": 12,
+        "TotalPrice": "24.00",
+        "customer": 1
+    },
+    {
+        "id": 5,
+        "address": {
+            "customer": {
+                "id": 1,
+                "first_name": "Taiwo",
+                "last_name": "Ekerin",
+                "email": "ekerinolufemo@gmail.com",
+                "phone": "10567008",
+                "birth_date": "2024-03-04"
+            },
+            "street": "Bornstrasse 2",
+            "city": "Berlin"
+        },
+        "itemDescription": "Shoes",
+        "unitPrice": "34.00",
+        "quantity": 3,
+        "TotalPrice": "102.00",
+        "customer": 1
+    }
+]
